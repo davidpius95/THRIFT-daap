@@ -1,0 +1,22 @@
+{
+  "name": "thrift-daap",
+  "version": "1.0.0",
+  "description": "This is a Thrift Dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpius95/THRIFT-daap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidpius95/THRIFT-daap/issues"
+  },
+  "homepage": "https://github.com/davidpius95/THRIFT-daap#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.4"
+  }
+}
